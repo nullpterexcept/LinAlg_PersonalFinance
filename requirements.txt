@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+matplotlib
+yfinance>=0.2.40
+seaborn
+pytest
